@@ -12,8 +12,8 @@
   <artifactId>sakai-unboundid-provider</artifactId>
   <packaging>jar</packaging>
   <properties>
-    <sakai.unboundid.version>5.1.1</sakai.unboundid.version>
-    <deploy.target />
+    <sakai.unboundid.version>5.1.4</sakai.unboundid.version>
+    <deploy.target/>
   </properties>
   <dependencies>
     <dependency>
